@@ -1,0 +1,25 @@
+Tarjeta 1:
+
+Numero:	123456789
+Pin:	1234
+
+Tarjeta 2:
+
+Numero:	987654321
+Pin:	4321
+
+Tarjeta 3:
+
+Numero:	147258369
+Pin:	5678
+
+Tarjeta 4:
+
+Numero:	963852741
+Pin:	8765
+
+Tarjeta 5:
+
+Numero:	159482637
+Pin:	9870
+
