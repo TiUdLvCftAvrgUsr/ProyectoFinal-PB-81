@@ -1,0 +1,115 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+20
+Bienvenida, y saludo
+4
+1
+23
+Ingresar numero tarjeta
+5
+1
+6
+numero
+4
+1
+12
+ingresar pin
+5
+1
+3
+pin
+7
+0
+1
+20
+verificacion usuario
+4
+1
+20
+verificacion fallida
+4
+1
+20
+intenarlo nuevamente
+13
+13
+12
+1
+4
+menu
+0
+1
+2
+1
+4
+menu
+0
+0
+4
+1
+22
+Seleccionar una opcion
+5
+1
+6
+opcion
+7
+0
+1
+15
+opcion=consulta
+7
+0
+1
+13
+opcion=retiro
+4
+1
+19
+Salida del programa
+13
+4
+1
+16
+saldo disponible
+4
+1
+23
+indicar monto a retirar
+5
+1
+5
+monto
+7
+0
+1
+34
+monto<saldo exstente && monto<1000
+4
+1
+33
+no se puede realizar la operacion
+13
+4
+1
+20
+realizar transaccion
+4
+1
+39
+mostrar saldo retirado y saldo restante
+13
+13
+13
+4
+1
+13
+mostrar saldo
+13
+3
